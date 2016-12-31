@@ -328,6 +328,10 @@ a:focus {
   padding-bottom: 10px;
 }
 
+#feature h2 {
+  text-transform: none;
+}
+
 
 
 /* About section  */
@@ -411,6 +415,12 @@ a:focus {
 
 
 /* Team section */
+#team h2 {
+    margin-top: 0px;
+  padding-bottom: 0px;
+   padding-top: 0px;
+}
+
 #team h3 {
   padding-bottom: 0px;
 }
@@ -651,18 +661,36 @@ a:focus {
   color: #ffffff;
 }
 
+#split {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
 
 /* Footer section  */
 footer {
   margin: 0;
-  background: #222;
+  background: #ffffff ;
   min-width: 960px;
+  text-align: center;
+}
+
+footer h1 {
+  padding-top: 44px;
+    padding-bottom: 24px;
 }
 
 footer h3 {
-  color: #ffffff;
+  color: #000;
+  padding-bottom: 14px;
+    font-size: 40x;
+}
+
+footer p {
+  color: #000;
   text-transform: uppercase;
   padding-bottom: 14px;
+  padding-top: 24px;
+  font-size: 24px;
 }
 
 footer strong {
@@ -671,6 +699,11 @@ footer strong {
   display: block;
   padding-top: 6px;
   padding-bottom: 2px;
+}
+
+footer img {
+    border-radius: 50%;
+    opacity: 0.9;
 }
 
   rectb {

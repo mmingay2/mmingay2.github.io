@@ -1,2 +1,2 @@
 # mmingay2.github.io
-adhoc website
+my personal website

@@ -109,51 +109,7 @@ circle {
 
   </div>
 </div>
-
-<!-- Feature section -->
-
-<div class="container">
-<script src="//d3js.org/d3.v3.min.js"></script>
-<script>
-
-var width = Math.max(960, innerWidth),
-    height = Math.max(100, 240);
-
-var i = 0;
-
-var svg = d3.select("body").append("svg")
-    .attr("width", width)
-    .attr("height", height);
-
-svg.append("rect")
-    .attr("width", width)
-    .attr("height", height)
-    .on("ontouchstart" in document ? "touchmove" : "mousemove", particle);
-
-function particle() {
-  var m = d3.mouse(this);
-
-  svg.insert("circle", "rect")
-      .attr("cx", m[0])
-      .attr("cy", m[1])
-      .attr("r", 1e-6)
-      .style("stroke", d3.hsl((i = (i + 1) % 360), 1, .5))
-      .style("stroke-opacity", 1)
-    .transition()
-      .duration(2000)
-      .ease(Math.sqrt)
-      .attr("r", 100)
-      .style("stroke-opacity", 1e-6)
-      .remove();
-
-  d3.event.preventDefault();
-}
-
-</script> 
-</div>
-</section>
-
-
+  
 
 <!-- Skills section -->
 
@@ -263,7 +219,7 @@ function particle() {
                 <h3><a href="https://github.com/mmingay2" target="framename">github</h3></a> 
                 <h3><a href="https://makedatasense.ca" target="framename">datasense</h3></a> 
                 <h3><a href="https://scholar.google.ca/citations?user=3ygGp74AAAAJ&hl=en" target="framename">google scholar</h3></a> 
-                <p> <img src="images/Mingay1.jpg"></p>
+                <p> <img src="images/Mingay2.jpg" style="width:200px;"></p>
                 </div>
                 </div>
 </footer>

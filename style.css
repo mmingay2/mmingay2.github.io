@@ -796,10 +796,11 @@ footer strong {
 
 }
 
-@media (max-width: 1020px) {
+@media screen and (max-width: 1020px) {
 
-  #home {
+  #home #container, #header, #content, #footer, #home, #feature, #navbar-sticky-wrapper, #split, #copyright {
     height: 100vh;
+    width: auto;
   }
 
   h1 {
@@ -823,28 +824,21 @@ footer strong {
   #contact {
     padding-top: 80px;
     padding-bottom: 80px;
+    width: auto;
   }
 
   #menu .media-object img {
     width: 100%;
     padding-bottom: 14px;
+    width: auto;
   }
   #menu .media-object span.menu-price {
     top: 30%;
     left: 6%;
-  }
-
-  footer {text-align: center;}
-
-}
-
-@media screen and (max-width: 1020px) {
-  #container, #header, #content, #footer, #home, #feature, #navbar-sticky-wrapper, #split, #copyright {
-    float: none;
     width: auto;
   }
- #subtitle, #share, #slider, #sidebar{
-    display:none;
-  }
-  p{ font-size: 2em; }
+
+  footer {text-align: center;
+  width: auto;}
+
 }

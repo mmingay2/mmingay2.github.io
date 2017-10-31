@@ -839,7 +839,7 @@ footer strong {
 }
 
 @media screen and (max-width: 1020px) {
-  #container, #header, #content, #footer {
+  #container, #header, #content, #footer, #home, #feature, #navbar-sticky-wrapper, #split, #copyright {
     float: none;
     width: auto;
   }

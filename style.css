@@ -796,7 +796,7 @@ footer strong {
 
 }
 
-@media (max-width: 650px) {
+@media (max-width: 1020px) {
 
   #home {
     height: 100vh;
@@ -836,4 +836,15 @@ footer strong {
 
   footer {text-align: center;}
 
+}
+
+@media screen and (max-width: 1020px) {
+  #container, #header, #content, #footer {
+    float: none;
+    width: auto;
+  }
+ #subtitle, #share, #slider, #sidebar{
+    display:none;
+  }
+  p{ font-size: 2em; }
 }

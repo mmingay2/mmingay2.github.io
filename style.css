@@ -763,8 +763,13 @@ footer strong {
 
   h1 {font-size: 70px;}
 
-}
+  
+  #home #container, #header, #content, #footer, #home, #feature, #navbar-sticky-wrapper, #split, #copyright {
+    height: 100vh;
+    width: auto;
+  }
 
+}
 
 @media (max-width: 768px) {
 

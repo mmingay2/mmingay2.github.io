@@ -12,6 +12,7 @@
   transform-style: preserve-3d;
   background-position:center;
   left: 50%;
+  transform: rotate(90deg);
 }
 
 .ele {

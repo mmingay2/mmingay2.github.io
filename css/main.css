@@ -4,6 +4,10 @@
   --dot-color2: #000;
 }
 
+h2 {
+  color: #808080;
+}
+
 
 .dna {
   width: 200px;

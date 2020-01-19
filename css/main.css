@@ -6,7 +6,7 @@
 
 
 .dna {
-  width: 120px;
+  width: 200px;
   height: 35px;
   perspective: 400px;
   transform-style: preserve-3d;
@@ -18,8 +18,8 @@
 }
 
 .ele {
-  width: 0.5px;
-  height: 20px;
+  width: 4px;
+  height: 30px;
   float: left;
   margin: 0 2px;
   border-left: 1px #b0b0b0 dashed;

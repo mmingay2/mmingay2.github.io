@@ -1,1 +1,1 @@
-##### I am a Data Scientist specializing in Data Visualization, Epigenomics and Bioinformatics.
+##### My name is Matthew Mingay and I love Data Visualization, Epigenomics and Bioinformatics 😍.

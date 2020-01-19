@@ -6,22 +6,22 @@
 
 
 .dna {
-  width: 360px;
-  height: 70px;
+  width: 120px;
+  height: 35px;
   perspective: 400px;
   transform-style: preserve-3d;
   background-position:left bottom;
-  left: 50%;
-  transform: rotate(90deg);
+  left: 0%;
+  transform: rotate(180deg);
   padding-left: 150px;
   padding-top: 275px;
 }
 
 .ele {
-  width: 1px;
-  height: 70px;
+  width: 0.5px;
+  height: 20px;
   float: left;
-  margin: 0 8px;
+  margin: 0 2px;
   border-left: 1px #b0b0b0 dashed;
   position: relative;
   transform: rotateX(-360deg);
@@ -29,19 +29,19 @@
 }
 .ele:before, .ele:after {
   content: "";
-  width: 10px;
-  height: 10px;
+  width: 2px;
+  height: 2px;
   background: var(--dot-color1);
   border-radius: 50%;
   position: absolute;
   transform: translateX(-50%);
 }
 .ele:before {
-  top: -2px;
+  top: -0.5px;
   background: var(--dot-color2);
 }
 .ele:after {
-  bottom: -2px;
+  bottom: -0.5px;
 }
 .ele:nth-of-type(1) {
   animation-delay: -0.15s;

@@ -1,2 +1,1 @@
-# Matthew Mingay
-## Bioinformatics and Data Science
+## I am a Data Scientist specializing in Epigenomics and Bioinformatics

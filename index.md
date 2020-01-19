@@ -1,1 +1,1 @@
-##### I am a Data Scientist specializing in Epigenomics and Bioinformatics
+##### I am a Data Scientist specializing in Data Visualization, Epigenomics and Bioinformatics.

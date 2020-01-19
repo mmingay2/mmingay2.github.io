@@ -17,6 +17,11 @@ a {
   animation: rotate-center 0.6s ease-in-out both;
 }
 
+.rotate-diagonal-br {
+  animation: rotate-diagonal-br 0.4s linear both;
+}
+
+
 .dna {
   width: 200px;
   height: 35px;
@@ -24,7 +29,6 @@ a {
   transform-style: preserve-3d;
   background-position:left bottom;
   transform: rotate(180deg);
-  padding-left: 30px;
   padding-top: 30px;
 }
 
@@ -127,6 +131,21 @@ a {
   }
   100% {
     transform: rotate(360deg);
+  }
+}
+
+@keyframes rotate-diagonal-br {
+  0% {
+    transform: rotate3d(-1, 1, 0, 0deg);
+    transform-origin: 100% 100%;
+  }
+  50% {
+    transform: rotate3d(-1, 1, 0, -180deg);
+    transform-origin: 100% 100%;
+  }
+  100% {
+    transform: rotate3d(-1, 1, 0, -360deg);
+    transform-origin: 100% 100%;
   }
 }
 

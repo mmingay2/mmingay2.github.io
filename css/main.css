@@ -14,11 +14,11 @@ a {
 
 
 .rotate-center {
-  animation: rotate-center 0.6s ease-in-out both;
+  animation: rotate-center 1.8s ease-in-out both;
 }
 
 .rotate-diagonal-br {
-  animation: rotate-diagonal-br 0.4s linear both;
+  animation: rotate-diagonal-br 0.8s linear both;
 }
 
 

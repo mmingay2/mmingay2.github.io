@@ -4,5 +4,10 @@
 
 ---
 
-![Figure 2](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Vitamin C induces methylome remodelling in IDH1R132H-expressing cells.")
+![Figure 2](./img/figure2.jpeg)
+
+##### Vitamin C induces methylome remodelling in IDH1R132H-expressing cells
+
+
+---
 

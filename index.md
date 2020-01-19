@@ -1,1 +1,1 @@
-##### My name is Matthew Mingay and I love Data Visualization, Epigenomics and Bioinformatics 😍.
+## I love Data Visualization, Epigenomics and Bioinformatics 😍.

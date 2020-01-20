@@ -1,6 +1,6 @@
 # Web Applications
 
-#### Here are some examples of web applications I built, mainly using [Shiny](https://shiny.rstudio.com/)
+## Below are some examples of web applications I built, mainly using [Shiny](https://shiny.rstudio.com/)
 
 ---
 
@@ -15,3 +15,12 @@
 [See a Live Demo](https://mmingay2.shinyapps.io/RNA-seek/)
 
 ---
+
+## Below are some useful visualization libraries that I regularly utilize to study genomics data
+
+##### This is an example of a custom IGV browser that can be configurated to display BAM, Wig, BigWig, VCF and a multitude of genomic regions files for validation and exploration.
+
+[IGV.js Browser](http://mmingay.com/igvbrowser.html)
+
+
+

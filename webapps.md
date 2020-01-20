@@ -6,13 +6,13 @@ Explore gene expression in Acute Myeloid Leukemia (AML) patient data from [The C
 
 [See a Live Demo](https://mmingay2.shinyapps.io/tcga_aml/)
 
-<div>
-	<iframe src="https://mmingay2.shinyapps.io/tcga_aml/" style="border: none; width: 300px; height: 450px"></iframe>
-</div>
+[See the Code](https://github.com/mmingay2/tcga_aml)
 
 This app allows you to type in terms of interest (ex. AML) and get gene sets from [MSigDB](http://software.broadinstitute.org/gsea/msigdb/index.jsp). The genes in the gene set you select will then be coloured red on the RNA-seq scatterplot.
 
 [See a Live Demo](https://mmingay2.shinyapps.io/RNA-seek/)
+
+[See the Code](https://github.com/mmingay2/RNA-seek)
 
 ---
 
@@ -21,6 +21,11 @@ This app allows you to type in terms of interest (ex. AML) and get gene sets fro
 This is an example of a custom IGV browser that can be configurated to display BAM, Wig, BigWig, VCF and a multitude of genomic regions files for validation and exploration.
 
 [IGV.js Browser](http://mmingay.com/igvbrowser.html)
+
+[Morpheus](https://software.broadinstitute.org/morpheus/) is a powerful browser-based javascript tool for visualizing and analyzing high dimensional datasets developed by the Broad Instiute. 
+
+See my [tutorial](https://github.com/mmingay2/coloCancerBrowser) on how to use [Flask](https://palletsprojects.com/p/flask/) to run Morpheus locally or in the cloud. 
+
 
 ---
 

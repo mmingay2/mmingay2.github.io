@@ -18,7 +18,7 @@ This app allows you to type in terms of interest (ex. AML) and get gene sets fro
 
 ---
 
-## Javascript Libraries
+## Javascript Apps
 
 This is an example of a custom [IGV browser](https://github.com/igvteam/igv.js/) that can be configurated to display BAM, Wig, BigWig, VCF and a multitude of genomic regions files for validation and exploration.
 

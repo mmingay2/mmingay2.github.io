@@ -21,6 +21,7 @@
   color: white; /* White text color */
 }
 
+.bioinf {width: 98%; background-color: #00A3B5;}
 .python {width: 95%; background-color: #FFD700;}
 .shell {width: 95%; background-color: #65008C;} /* Blue */
 .r {width: 90%; background-color: #0000CD;}

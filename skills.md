@@ -1,6 +1,20 @@
 # Skills & Experience
 
+I am a creative and resourceful data scientist with a demonstrated history of success in bioinformatics research settings. 
+
+I have a Master’s Degree focused on Bioinformatics and Epigenomics from The University of British Columbia. 
+
+I am very interested in Machine Learning, Data Analysis/Visualization, Big Data, DNA Sequencing and Genomics. 
+
+I currently work as a Data Scientist (Bioinformatics) at the Joint Genome Institute at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) where I develop analysis pipelines and tools for epigenomic experiments (chIP-seq, methyl-seq).
+
+
 ## My Stack
+
+<p>Bioinformatics Tools</p>
+<div class="container">
+  <div class="skills bioinf">98%</div>
+</div>
 
 <p>Python</p>
 <div class="container">

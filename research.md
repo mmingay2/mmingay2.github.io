@@ -38,7 +38,5 @@ Epigenetic therapy restores normal hematopoiesis in a zebrafish model of *NUP98â
 
 **Figure 4.** DAC and Indo function synergistically with VPA to restore hematopoiesis in *NHA9* transgenic zebrafish
 
----
-
 
 

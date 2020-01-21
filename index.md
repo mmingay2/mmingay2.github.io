@@ -1,10 +1,4 @@
 
-# Research
-
-See my [Google Scholar Profile](https://scholar.google.com/citations?user=3ygGp74AAAAJ&hl=en) for a complete list of my publications.
-
----
-
 Vitamin C induced epigenomic remodelling in *IDH1* mutant acute myeloid leukaemia [*Nature Leukemia*](https://www.nature.com/articles/leu2017171)
 
 ![Figure 2](./img/figure2.jpeg)

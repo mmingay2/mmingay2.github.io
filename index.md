@@ -1,6 +1,7 @@
 
 I currently work as a Data Scientist (Bioinformatics) at the [Joint Genome Institute](https://jgi.doe.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) where I develop analysis pipelines and tools for epigenomic experiments (chIP-seq, methyl-seq, RNA-seq).
 
+![](./img/genomemap.jpg)
 ---
 
 Vitamin C induced epigenomic remodelling in *IDH1* mutant acute myeloid leukaemia [*Nature Leukemia*](https://www.nature.com/articles/leu2017171)

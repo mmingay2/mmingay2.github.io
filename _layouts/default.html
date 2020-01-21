@@ -23,6 +23,7 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
   </head>
   <body>
+    <div class="wrapper">
             <div class="dna">
               <div class="ele"></div>
               <div class="ele"></div>
@@ -45,7 +46,8 @@
               <div class="ele"></div>
               <div class="ele"></div>
             </div>
-        <h1><a href="http://mmingay.com"><h1>matt mingay</h1></a></h1>
+
+            <h1><a href="http://mmingay.com"><h1>matt mingay</h1></a></h1>
         <h3><a href="http://mmingay.com/skills.html">Skills & Experience</a></h3>
         <h3><a href="http://mmingay.com/webapps.html">Web Apps</a></h3>
         <h3><a href="http://mmingay.com/research.html">Research</a></h3>
@@ -55,7 +57,6 @@
         {% endif %}
         <p class="view"><a href="https://github.com/mmingay2">View My Personal Github</a></p>
         <p class="view"><a href="https://www.linkedin.com/in/matthew-mingay-2a8199127/">View My LinkedIn Profile</a></p>
-     <div class="wrapper">
       <section>
 
       {{ content }}
@@ -64,6 +65,7 @@
       <footer>
       </footer>
       </div>
+  </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>

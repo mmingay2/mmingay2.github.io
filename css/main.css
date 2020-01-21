@@ -9,35 +9,28 @@
 * {box-sizing:border-box}
 
 /* Container for skill bars */
-.container {
-  width: 100%; /* Full width */
-  background-color: #ddd; /* Grey background */
+/*.container {*/
+  /*width: 100%;  Full width */
+  /*background-color: #ddd; /* Grey background */*/
 }
 
-.skills {
-  text-align: right; /* Right-align text */
-  padding-top: 10px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
-  color: white; /* White text color */
-}
-
+/*.skills {*/
+  /*text-align: right;  Right-align text */
+  /*padding-top: 10px;  Add top padding */
+  /*padding-bottom: 10px;  Add bottom padding */
+  /*color: white;  White text color */
+/*}*/
+/*
 .bioinf {width: 98%; background-color: #00A3B5;}
 .python {width: 95%; background-color: #FFD700;}
-.shell {width: 95%; background-color: #65008C;} /* Blue */
+.shell {width: 95%; background-color: #65008C;} 
 .r {width: 90%; background-color: #0000CD;}
-.ml {width: 85%; background-color: #65008C;} /* Blue */
-.dl {width: 80%; background-color: #17004D;} /* Blue */
-.js {width: 80%; background-color: #8C0005;} /* Red */
-.html {width: 75%; background-color: #008C1A;} /* Green */
+.ml {width: 85%; background-color: #65008C;}
+.dl {width: 80%; background-color: #17004D;}
+.js {width: 80%; background-color: #8C0005;}
+.html {width: 75%; background-color: #008C1A;}
 
-
-h1 {
-  color: #000080  ;
-}
-
-a {
-  color: #0000FF;
-}
+*/
 
 .shadow-pop-tr {
   animation: shadow-pop-tr 0.3s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;

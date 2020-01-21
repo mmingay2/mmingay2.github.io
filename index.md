@@ -1,9 +1,5 @@
-## Check out these interactive Shiny Apps!
+# Welcome
 
-<div>
-	<iframe src="https://mmingay2.shinyapps.io/tcga_aml/" style="border: none; width: 880px; height: 900px"></iframe>
-</div>
+## My name is Matt Mingay and I am passionate about epigenomics and bioinformatics.
 
-<div>
-	<iframe src="https://mmingay2.shinyapps.io/RNA-seek/" style="border: none; width: 880px; height: 900px"></iframe>
-</div>
+![mingay2](./img/Mingay2.jpg)

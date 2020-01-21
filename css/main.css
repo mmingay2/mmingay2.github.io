@@ -4,6 +4,11 @@
   --dot-color2: #000;
 }
 
+.section {
+  width: 900px;
+  float: right;
+  padding-bottom: 50px;
+}
 
 /* Make sure that padding behaves as expected */
 * {box-sizing:border-box}

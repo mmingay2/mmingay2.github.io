@@ -62,13 +62,13 @@ a {
 }
 
 .dna {
-  width: 180px;
+  width: 200px;
   height: 35px;
   perspective: 400px;
   transform-style: preserve-3d;
   background-position:left bottom;
   transform: rotate(180deg);
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .ele {

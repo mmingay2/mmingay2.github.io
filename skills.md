@@ -8,45 +8,47 @@ I am very interested in Machine Learning, Data Analysis/Visualization, Big Data,
 
 I currently work as a Data Scientist (Bioinformatics) at the Joint Genome Institute at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) where I develop analysis pipelines and tools for epigenomic experiments (chIP-seq, methyl-seq).
 
+---
 
-## My Stack
+# My Stack
 
-<p>Bioinformatics Tools</p>
 <div class="container">
   <div class="skills bioinf">98%</div>
 </div>
+<p>Bioinformatics Tools</p>
 
-<p>Python</p>
 <div class="container">
   <div class="skills python">95%</div>
 </div>
+<p>Python</p>
 
-<p>Shell</p>
 <div class="container">
   <div class="skills shell">95%</div>
 </div>
+<p>Shell</p>
 
-<p>R</p>
 <div class="container">
   <div class="skills r">90%</div>
 </div>
+<p>R</p>
 
-<p>Machine Learning</p>
 <div class="container">
   <div class="skills ml">85%</div>
 </div>
+<p>Machine Learning</p>
 
-<p>Deep Learning</p>
 <div class="container">
   <div class="skills dl">80%</div>
 </div>
+<p>Deep Learning</p>
 
-<p>JavaScript</p>
 <div class="container">
   <div class="skills js">80%</div>
 </div>
+<p>JavaScript</p>
 
-<p>HTML/CSS</p>
 <div class="container">
   <div class="skills html">75%</div>
 </div>
+<p>HTML/CSS</p>
+

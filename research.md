@@ -4,8 +4,9 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=3ygGp7
 
 ---
 
-## Vitamin C induced epigenomic remodelling in *IDH1* mutant acute myeloid leukaemia (*Nature Leukemia*)
+Vitamin C induced epigenomic remodelling in *IDH1* mutant acute myeloid leukaemia (*Nature Leukemia*)
 
+---
 
 ![Figure 2](./img/figure2.jpeg)
 
@@ -17,8 +18,9 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=3ygGp7
 
 ---
 
-##  Epigenetic and transcriptional determinants of the human breast (*Nature Communications*)
+Epigenetic and transcriptional determinants of the human breast (*Nature Communications*)
 
+---
 
 ![Breast Figure 1](./img/breastfigure1.jpeg)
 
@@ -30,7 +32,9 @@ See my [Google Scholar Profile](https://scholar.google.com/citations?user=3ygGp7
 
 ---
 
-## Epigenetic therapy restores normal hematopoiesis in a zebrafish model of *NUP98–HOXA9* induced myeloid disease (*Nature Leukemia*)
+Epigenetic therapy restores normal hematopoiesis in a zebrafish model of *NUP98–HOXA9* induced myeloid disease (*Nature Leukemia*)
+
+---
 
 ![zebrafish figure 3](./img/zebrafish_figure3.jpeg)
 

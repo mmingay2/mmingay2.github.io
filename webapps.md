@@ -1,6 +1,6 @@
 # Web Applications
 
-## [Shiny](https://shiny.rstudio.com/) Apps
+## Shiny Apps
 
 Explore gene expression in Acute Myeloid Leukemia (AML) patient data from [The Cancer Genome Atlas](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
 

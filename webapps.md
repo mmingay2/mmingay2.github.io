@@ -1,6 +1,13 @@
 # Web Applications
 
-## Shiny Apps
+### Morpheus Flask App
+
+See my [colorectal cancer data browser](http://colo-flask3.eba-3yxerm5g.us-west-1.elasticbeanstalk.com/), built with flask and powered by [Morpheus.js](https://software.broadinstitute.org/morpheus/) is a powerful browser-based javascript tool for visualizing and analyzing high dimensional datasets developed by the Broad Instiute. 
+
+See my [tutorial](https://github.com/mmingay2/coloCancerBrowser) on how to use [Flask](https://palletsprojects.com/p/flask/) to run Morpheus locally or in the cloud. 
+
+
+### Shiny Apps
 
 Explore gene expression in Acute Myeloid Leukemia (AML) patient data from [The Cancer Genome Atlas](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
 
@@ -18,18 +25,11 @@ This app allows you to type in terms of interest (ex. AML) and get gene sets fro
 
 ---
 
-## Javascript Apps
+### IGV Browser
 
 This is an example of a custom [IGV browser](https://github.com/igvteam/igv.js/) that can be configurated to display BAM, Wig, BigWig, VCF and a multitude of genomic regions files for validation and exploration.
 
 [IGV.js Browser](http://mmingay.com/igvbrowser.html)
-
----
-
-[Morpheus](https://software.broadinstitute.org/morpheus/) is a powerful browser-based javascript tool for visualizing and analyzing high dimensional datasets developed by the Broad Instiute. 
-
-See my [tutorial](https://github.com/mmingay2/coloCancerBrowser) on how to use [Flask](https://palletsprojects.com/p/flask/) to run Morpheus locally or in the cloud. 
-
 
 ---
 
